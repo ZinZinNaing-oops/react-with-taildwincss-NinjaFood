@@ -110,7 +110,7 @@ class App extends Component {
           <div class='mt-8'>
           </div>
           <div className="flex justify-center " >
-            <div class='btn bg-secondary-100 text-secondary-200 hover:shadow-inner hover:bg-opacity-50 hover:scale-125 transition ease-out duration-5000'>Load more...</div>
+            <div class='btn bg-secondary-100 text-secondary-200 hover:shadow-inner hover:bg-opacity-50 hover:scale-125 transition ease-out duration-5000'>Testing Commit...</div>
           </div>
         </div>
       </main>
